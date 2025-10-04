@@ -25,7 +25,7 @@ const pavan = {
     location: "Hyderabad, India",
     role: "Full Stack Software Engineer",
     currentWorkplace: ["FairSeat", "Zordie", "DonClem Technology"],
-    languages: ["TypeScript", "Python", "JavaScript", "Java", "C++", "Go"],
+    languages: ["TypeScript", "Python", "JavaScript", "C++"],
     focus: ["Scalable Systems", "Cloud Architecture", "API Design", "Performance Optimization"],
     achievements: {
         hackathon: "Top 1% (500+ participants)",
@@ -60,7 +60,6 @@ const pavan = {
 
 ### 🎯 FairSeat
 **Full Stack Software Developer Intern**  
-*Jun 2025 - Present*
 
 - 🔧 Building REST APIs for **10,000+ monthly users**
 - ⚡ Implemented Redux improving performance by **50%**
@@ -91,7 +90,6 @@ const pavan = {
 
 ### 💡 DonClem Technology
 **Full Stack Software Developer Intern**  
-*May 2025 - Jun 2025*
 
 - 📊 Optimized dashboard load speed by **60%**
 - 🚄 Reduced API response time: **800ms → 320ms**

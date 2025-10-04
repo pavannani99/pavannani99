@@ -78,7 +78,6 @@ const pavan = {
 
 - 🏗️ Developed **15+ production-grade REST APIs**
 - ⚡ Reduced response time by **45%** for 1,000+ concurrent operations
-- 🔐 Improved system reliability by **80%** through CI/CD
 - 🏆 **Promoted to Backend Lead** for outstanding performance
 
 **Stack:** FastAPI • Python • Docker • AWS • Redis

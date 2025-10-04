@@ -2,7 +2,7 @@
 
 # Simhadri Pavan Kumar
 
-**Full Stack Software Engineer** | **B.Tech in EEE (Minor: CS)** @ VRSEC College
+**Full Stack Software Engineer** | **B.Tech in EEE (Minor: CS)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/simhadri-pavan-kumar-14b87027b)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pavankumarsimhadri987@gmail.com)

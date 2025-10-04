@@ -25,7 +25,7 @@ const pavan = {
     location: "Hyderabad, India",
     role: "Full Stack Software Engineer",
     currentWorkplace: ["FairSeat", "Zordie", "DonClem Technology"],
-    languages: ["TypeScript", "Python", "JavaScript", "Java", "C++", "Go"],
+    languages: ["TypeScript", "Python", "JavaScript", "C++"],
     focus: ["Scalable Systems", "Cloud Architecture", "API Design", "Performance Optimization"],
     achievements: {
         hackathon: "Top 1% (500+ participants)",
@@ -141,16 +141,12 @@ const pavan = {
 <br>JavaScript
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-<br>Java
-</td>
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
 <br>C++
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-<br>Go
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+<br>C
 </td>
 </tr>
 </table>

@@ -161,7 +161,7 @@ Latency: <200ms chat response
 ### 🔬 FOSSEE OpenFOAM
 **CFD Simulation Research**
 
-*IIT Bombay Internship*
+*IIT Bombay Project*
 
 ```yaml
 Tech: OpenFOAM, Python

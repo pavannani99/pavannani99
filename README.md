@@ -58,6 +58,7 @@ const pavan = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Frontend Mastery
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -77,6 +78,7 @@ const pavan = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Cloud & DevOps
@@ -165,7 +167,7 @@ Latency: <200ms chat response
 
 ```yaml
 Tech: OpenFOAM, Python
-Selection: Top 15 from 1000+
+Selection: Top 100 from 100+
 Status: Ongoing Research
 ```
 
@@ -198,9 +200,17 @@ Status: Ongoing Research
 
 ---
 
-## 🏆 Achievements Showcase
+## 🏆 Achievements & Badges
 
 <div align="center">
+
+### GitHub Achievements
+<img src="https://github-profile-trophy.vercel.app/?username=pavannani99&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+
+### Holopin Badges
+[![An image of @pavannani99's Holopin badges](https://holopin.me/pavannani99)](https://holopin.io/@pavannani99)
+
+### Key Accomplishments
 
 | Achievement | Details |
 |------------|---------|
@@ -285,6 +295,7 @@ gantt
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/simhadri-pavan-kumar-14b87027b/)
 [![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavankumarsimhadri987@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pavannani99)
 
 </div>
 

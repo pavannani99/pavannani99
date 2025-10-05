@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### 🚀 Backend Lead @ Zordie AI | Co-Founder @ Adewin
+### 🚀 Backend Dev @ Investomation | Project @ CFD-IITB
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Building+Scalable+Microservices+%F0%9F%94%A5;AI+Integration+Expert+%F0%9F%A4%96;15%2B+Production+APIs+Deployed+%E2%9A%A1;45%25+Performance+Optimization+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -101,11 +101,6 @@ mentor: Alexander Tspekov
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
   <br>C++
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-  <br>Go
-</td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
   <br>React
@@ -173,10 +168,6 @@ mentor: Alexander Tspekov
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
   <br>PyTorch
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-  <br>Firebase
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" />
@@ -285,7 +276,6 @@ timeline
 + Kubernetes & Container Orchestration
 + Advanced System Design Patterns
 + LLM Fine-tuning & RAG Architectures
-+ Rust for Systems Programming
 + WebAssembly & Edge Computing
 ```
 

@@ -1,306 +1,184 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Simhadri%20Pavan%20Kumar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descAlignY=55&descAlign=50"/>
+# 👋 Hey, I'm Pavan Kumar
 
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Full+Stack+Software+Engineer;Backend+%2B+Frontend+%2B+Cloud;Building+Scalable+Systems;Open+Source+Enthusiast" alt="Typing SVG" />
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Full-Stack+%26+Backend+Architect;AI+Integration+Specialist;Building+Scalable+Systems;Open+Source+Contributor" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/simhadri-pavan-kumar-14b87027b)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavankumarsimhadri987@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pavankumarsimhadri987/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/pavanqwerty)
-
-<img src="https://komarev.com/ghpvc/?username=pavannani99&label=Profile%20views&color=667eea&style=for-the-badge" alt="Profile views" />
+<p>
+  <a href="https://linkedin.com/in/simhadri-pavan-kumar-14b87027b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:pavankumarsimhadri987@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/pavannani99"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/></a>
+  <img src="https://komarev.com/ghpvc/?username=pavannani99&color=blueviolet&style=flat-square"/>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-```javascript
+```typescript
 const pavan = {
-    pronouns: "He" | "Him",
-    location: "Hyderabad, India",
-    role: "Full Stack Software Engineer",
-    currentWorkplace: ["FairSeat", "Zordie", "DonClem Technology"],
-    languages: ["TypeScript", "Python", "JavaScript", "C++"],
-    focus: ["Scalable Systems", "Cloud Architecture", "API Design", "Performance Optimization"],
-    achievements: {
-        hackathon: "Top 1% (500+ participants)",
-        promotion: "Backend Lead at Zordie",
-        openSource: "GSSoC 2024 Contributor",
-        competitive: "100+ LeetCode Problems"
+    role: "Full-Stack Developer & Backend Architect",
+    location: "Hyderabad, India 🇮🇳",
+    currentFocus: ["Microservices Architecture", "AI Integration", "Scalable Systems"],
+    
+    ventures: {
+        coFounder: "Adewin (AI-Powered AdTech)",
+        contributing: "Investomation (Real Estate Analytics)",
+        research: "FOSSEE IIT Bombay (CFD Simulations)"
     },
-    stats: {
-        apisBuilt: "15+",
-        usersServed: "10,000+",
-        performanceGain: "60%",
-        latencyReduction: "45%"
-    }
+    
+    workExperience: [
+        { company: "Zordie AI", role: "Backend Lead", achievement: "15+ APIs, 45% performance boost" },
+        { company: "Fairseat", role: "Full-Stack Dev", achievement: "Complete Auth System" },
+        { company: "DonClem", role: "Full-Stack Dev", achievement: "60% faster load times" }
+    ],
+    
+    achievements: [
+        "🏆 Top 1% - Outlier AI Hackathon (500+ participants)",
+        "🌟 1000+ LOC merged - GSSoC 2024",
+        "💪 100+ LeetCode problems (85% medium/hard)",
+        "🚀 Promoted to Backend Lead in 4 months"
+    ],
+    
+    openToWork: true,
+    coffee: "☕".repeat(Math.floor(Math.random() * 5) + 1)
 };
 ```
 
+---
+
+## 💻 Tech Arsenal
+
 <div align="center">
 
-### 🔥 Current Status
+### Core Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-**🚀 Building scalable systems** • **☁️ Exploring cloud architecture** • **📚 Learning system design**
+### Frontend Mastery
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend Excellence
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### Database Systems
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### AI/ML Stack
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
 
 </div>
 
 ---
 
-## 💼 Professional Journey
-
-<table>
-<tr>
-<td>
-
-### 🎯 FairSeat
-**Full Stack Software Developer Intern**  
-*Jun 2025 - Present*
-
-- 🔧 Building REST APIs for **10,000+ monthly users**
-- ⚡ Implemented Redux improving performance by **50%**
-- 📱 Developed responsive components increasing mobile satisfaction by **40%**
-
-**Stack:** Next.js • Node.js • MongoDB • Redux
-
-</td>
-</tr>
-<tr>
-<td>
-
-### 🚀 Zordie — Backend Lead
-**FullStack Software Engineer Intern**  
-*Mar 2025 - Aug 2025*
-
-- 🏗️ Developed **15+ production-grade REST APIs**
-- ⚡ Reduced response time by **45%** for 1,000+ concurrent operations
-- 🔐 Improved system reliability by **80%** through CI/CD
-- 🏆 **Promoted to Backend Lead** for outstanding performance
-
-**Stack:** FastAPI • Python • Docker • AWS • Redis
-
-</td>
-</tr>
-<tr>
-<td>
-
-### 💡 DonClem Technology
-**Full Stack Software Developer Intern**  
-*May 2025 - Jun 2025*
-
-- 📊 Optimized dashboard load speed by **60%**
-- 🚄 Reduced API response time: **800ms → 320ms**
-- 💾 Applied data compression for large-scale handling
-
-**Stack:** React • TypeScript • Django • AWS EC2
-
-</td>
-</tr>
-<tr>
-<td>
-
-### 🎨 Outlier AI
-**Freelance Software Developer**  
-*2024 - Present*
-
-- 🏅 Built apps scoring **98/100** in Lighthouse
-- ⚡ Optimized LCP: **4.2s → 1.8s** (65% improvement)
-- 🎯 Focus on performance and accessibility
-
-**Stack:** Next.js • Vercel • Figma
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Technology Stack
+## 🎯 Featured Work
 
 <div align="center">
-
-### Core Technologies
-
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-<br>TypeScript
+<td width="50%">
+
+### 🎨 Adewin
+**AI-Powered AdTech Startup**
+
+*Co-Founder & Backend Architect*
+
+```yaml
+Tech: FastAPI, Python, PostgreSQL, GPT
+Impact: SMB campaign generation in minutes
+Status: MVP ✅ | Seeking Investment 💰
+```
+
+**Key Features:**
+- LLM-powered prompt generation
+- Automated data cleaning workflows
+- Scalable REST API architecture
+
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br>Python
+<td width="50%">
+
+### 🏘️ Investomation
+**Real Estate Analytics Platform**
+
+*Backend Developer (Mentor: Alexander Tspekov)*
+
+```yaml
+Tech: Svelte, Node.js, Express, SQLite
+Scale: 300+ GB data processing
+Sources: Census, IRS, Zillow, Redfin
+```
+
+**Key Features:**
+- Microservices architecture
+- Layered data processing engine
+- Real-time neighborhood profiling
+
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💬 EduConnect
+**Real-Time Collaboration Platform**
+
+```yaml
+Tech: React, Firebase, WebSockets
+Users: 200+ concurrent
+Latency: <200ms chat response
+```
+
+**Key Features:**
+- Real-time chat & file sharing
+- Role-based access control (RBAC)
+- JWT authentication system
+
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-<br>C++
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-<br>C
+<td width="50%">
+
+### 🔬 FOSSEE OpenFOAM
+**CFD Simulation Research**
+
+*IIT Bombay Internship*
+
+```yaml
+Tech: OpenFOAM, Python
+Selection: Top 100 from 100+
+Status: Ongoing Research
+```
+
+**Key Features:**
+- Computational fluid dynamics
+- Simulation automation
+- Advanced engineering workflows
+
 </td>
 </tr>
 </table>
-
-### Frontend Development
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br>React
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-<br>Next.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
-<br>Redux
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" />
-<br>Tailwind
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-<br>HTML5
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-<br>CSS3
-</td>
-</tr>
-</table>
-
-### Backend & Databases
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-<br>FastAPI
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
-<br>Django
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br>Node.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-<br>Express
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-<br>GraphQL
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-<br>PostgreSQL
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br>MongoDB
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-<br>Redis
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br>MySQL
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-<br>Firebase
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
-<br>Prisma
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-<br>Supabase
-</td>
-</tr>
-</table>
-
-### Cloud & DevOps
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-<br>AWS
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br>Docker
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
-<br>Kubernetes
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
-<br>Actions
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br>Linux
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-<br>Vercel
-</td>
-</tr>
-</table>
-
-### Tools & Others
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br>GitHub
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-<br>Postman
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-<br>Figma
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br>VS Code
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vim" width="48" height="48" alt="Vim" />
-<br>Vim
-</td>
-</tr>
-</table>
-
 </div>
 
 ---
@@ -308,107 +186,108 @@ const pavan = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pavannani99&show_icons=true&count_private=true&hide_border=true&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="Pavan's GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=pavannani99&theme=radical&hide_border=true&stroke=667eea&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=764ba2" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pavannani99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavannani99&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavannani99&layout=compact&hide_border=true&title_color=667eea&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=pavannani99&bg_color=0d1117&color=667eea&line=764ba2&point=764ba2&area=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavannani99&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pavannani99&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavannani99&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 🏆 Achievements & Recognition
+## 🏆 Achievements Showcase
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🥇-Top_1%25-gold?style=for-the-badge" />
-<br><b>UI Design Hackathon</b>
-<br><sub>Outlier AI (500+ participants)</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🚀-Backend_Lead-purple?style=for-the-badge" />
-<br><b>Early Promotion</b>
-<br><sub>Zordie - Outstanding Performance</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/💻-100+-blue?style=for-the-badge" />
-<br><b>LeetCode Problems</b>
-<br><sub>85% Medium/Hard Difficulty</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🌟-1000+-green?style=for-the-badge" />
-<br><b>GSSoC 2024</b>
-<br><sub>Lines of Code Merged</sub>
-</td>
-</tr>
-</table>
+| Achievement | Details |
+|------------|---------|
+| 🥇 **Top 1% Hackathon** | Outlier AI UI Design (500+ participants) |
+| 🌟 **GSSoC 2024** | 1,000+ lines of code merged |
+| 💪 **LeetCode Master** | 100+ problems solved (85% medium/hard) |
+| 🚀 **Fast Track Promotion** | Backend Lead at Zordie AI (4 months) |
+| 🎓 **IIT Bombay Research** | FOSSEE OpenFOAM Internship |
 
 </div>
 
 ---
 
-## 📈 Impact Metrics
+## 💼 Professional Journey
 
 <div align="center">
 
-```diff
-@@                  Key Performance Indicators                  @@
-
-+ 15+ REST APIs developed and deployed to production
-+ 10,000+ monthly active users served across platforms
-+ 60% improvement in dashboard load speeds
-+ 45% reduction in API response times
-+ 80% increase in system reliability through CI/CD
-+ 50% frontend performance optimization via state management
-+ 98/100 Lighthouse accessibility score achieved
-+ 65% improvement in Largest Contentful Paint (LCP)
+```mermaid
+gantt
+    title Career Timeline
+    dateFormat  YYYY-MM
+    section Experience
+    Zordie AI (Backend Lead)           :2025-04, 2025-08
+    Fairseat (Full-Stack)              :2025-01, 2025-08
+    DonClem Technology                 :2025-05, 2025-10
+    section Ventures
+    Adewin (Co-Founder)                :2024-12, 2025-10
+    Investomation (Contributor)        :2025-03, 2025-10
+    section Research
+    FOSSEE IIT Bombay                  :2025-06, 2025-10
 ```
 
 </div>
 
 ---
 
-## 🎯 Competitive Programming
+## 📈 Contribution Graph
 
 <div align="center">
 
-| Platform | Profile | Achievement |
-|:--------:|:--------|:------------|
-| <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /> | [@pavankumarsimhadri987](https://leetcode.com/u/pavankumarsimhadri987/) | **100+ Problems** • 85% Medium/Hard |
-| <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" /> | [@pavanqwerty](https://codeforces.com/profile/pavanqwerty) | Active Contestant |
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-## 💬 Let's Connect
+## 🎓 Current Focus Areas
 
 <div align="center">
 
-### Open to Full-time Opportunities • Freelance Projects • Open Source Collaboration
+| Area | Technologies | Status |
+|------|-------------|--------|
+| 🏗️ **Microservices** | Svelte, Node.js, Docker | 🔥 Active |
+| 🤖 **AI Integration** | PyTorch, Transformers, RAG | 🔥 Active |
+| ⚡ **Performance** | Redis, PostgreSQL, Optimization | 🔥 Active |
+| 🦀 **Systems Programming** | Rust, Go | 📚 Learning |
+| 📊 **Real-Time Systems** | WebSockets, Stream Processing | 🔥 Active |
 
-<br>
+</div>
 
-<a href="https://linkedin.com/in/simhadri-pavan-kumar-14b87027b">
-  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+---
 
-<a href="mailto:pavankumarsimhadri987@gmail.com">
-  <img src="https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+## 💡 Open Source Contributions
 
-<br><br>
+<div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+[![GSSoC Badge](https://img.shields.io/badge/GSSoC-2024-orange?style=for-the-badge)](https://gssoc.girlscript.tech/)
+[![Pull Requests](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)](https://github.com/pavannani99)
+[![Code Reviews](https://img.shields.io/badge/Code_Reviews-Active-blue?style=for-the-badge)](https://github.com/pavannani99)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+**Open to opportunities in:** Backend Development | Full-Stack Engineering | AI/ML Integration | Startup Ventures
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/simhadri-pavan-kumar-14b87027b/)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavankumarsimhadri987@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pavannani99)
 
 </div>
 
@@ -416,8 +295,14 @@ const pavan = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-**Made with 💜 by Simhadri Pavan Kumar**
+<br/>
+
+**⭐ From [pavannani99](https://github.com/pavannani99) with 💙**
+
+<br/>
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>

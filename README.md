@@ -58,7 +58,6 @@ const pavan = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Frontend Mastery
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -78,7 +77,6 @@ const pavan = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Cloud & DevOps
@@ -167,7 +165,7 @@ Latency: <200ms chat response
 
 ```yaml
 Tech: OpenFOAM, Python
-Selection: Top 100 from 100+
+Selection: Top 15 from 1000+
 Status: Ongoing Research
 ```
 
@@ -218,7 +216,7 @@ Status: Ongoing Research
 | 🌟 **GSSoC 2024** | 1,000+ lines of code merged |
 | 💪 **LeetCode Master** | 100+ problems solved (85% medium/hard) |
 | 🚀 **Fast Track Promotion** | Backend Lead at Zordie AI (4 months) |
-| 🎓 **IIT Bombay Research** | FOSSEE OpenFOAM Internship |
+| 🎓 **IIT Bombay Research** | FOSSEE OpenFOAM Project |
 
 </div>
 
@@ -266,7 +264,7 @@ gantt
 | 🏗️ **Microservices** | Svelte, Node.js, Docker | 🔥 Active |
 | 🤖 **AI Integration** | PyTorch, Transformers, RAG | 🔥 Active |
 | ⚡ **Performance** | Redis, PostgreSQL, Optimization | 🔥 Active |
-| 🦀 **Systems Programming** | Rust, Go | 📚 Learning |
+| 🦀 **Systems Programming** | Rust | 📚 Learning |
 | 📊 **Real-Time Systems** | WebSockets, Stream Processing | 🔥 Active |
 
 </div>

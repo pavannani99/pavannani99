@@ -202,12 +202,6 @@ Status: Ongoing Research
 
 <div align="center">
 
-### GitHub Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=pavannani99&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-
-### Holopin Badges
-[![An image of @pavannani99's Holopin badges](https://holopin.me/pavannani99)](https://holopin.io/@pavannani99)
-
 ### Key Accomplishments
 
 | Achievement | Details |

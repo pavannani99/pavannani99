@@ -1,61 +1,79 @@
-# Hi, I'm Pavan Kumar 👋
+# Hi, I'm Pavan Kumar 👋  
+(ミ●﹏☉)ミ — Welcome to my GitHub!
 
-I'm a backend and systems developer interested in distributed systems, data engineering, and real-time applications. I enjoy building scalable services, optimizing data flows, and working across Python, C++, and TypeScript ecosystems.
-
----
-
-## 🔧 Tech Focus
-
-- **Languages:** Python, C++, TypeScript, SQL  
-- **Backend:** FastAPI, Node.js, Django, Redis  
-- **Systems & Concepts:** Distributed Systems, Concurrency, Event-Driven Architecture, Data Modeling  
-- **Tools:** Docker, Git, Linux  
-
-I actively explore system design patterns, data pipelines, and performance-oriented backend architecture.
+I'm a backend and systems developer who enjoys building reliable, scalable, and clean software.  
+My work usually revolves around data pipelines, distributed systems concepts, and real-time applications.
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Tech Stack  
+(soft Doraemon-style minimal icons, no overload)
 
-### **1. Quant Option Pricer**
+**Languages:**  
+🔵 Python • 🔵 C++ • 🔵 TypeScript • SQL  
+
+**Backend:**  
+🔹 FastAPI • Node.js • Django • Redis • REST APIs  
+
+**Systems & Concepts:**  
+⚙️ Distributed Systems • Event-Driven Architecture • Concurrency • Data Modeling  
+
+**Tools:**  
+🐧 Linux • 🐳 Docker • Git  
+
+---
+
+## 📌 Featured Projects  
+
+### 🔵 Quant Option Pricer  
 **Live Demo:** https://quant-option-pricer-pavan.streamlit.app/  
-A NumPy-based pricing engine for Black–Scholes (Greeks, volatility sweeps, heatmaps) with automated market-data ingestion.
-
-### **2. EduConnect (Real-Time Collaboration Platform)**
-Backend services for WebSocket-based document sync and messaging. Designed distributed-state management, session handling, and concurrency-safe update flows.
-
-### **3. Adewin AI (Co-founder)**
-Initial backend and workflow automation modules for an AI-driven advertising platform.
+A NumPy-based engine for Black–Scholes pricing & Greeks with volatility sweeps and data ingestion.
 
 ---
 
-## 💼 Experience
-
-- **Platihub Co. Ltd (Backend Developer)** — Implemented production-grade APIs and data flows for an e-commerce platform.  
-- **Zordie AI (Backend Engineering Intern)** — Built modular services, async pipelines, and Redis caching layers.  
-- **Fairseat, IIT Delhi (Full-Stack Intern)** — Real-time communication features and secure authentication workflows.
+### 🔵 EduConnect – Real-Time Collaboration  
+WebSocket-based real-time sync system with distributed-state management & concurrency-safe updates.
 
 ---
 
-## 📚 Competitive Programming & CS
-- 100+ LeetCode problems  
-- Active Codeforces participant (`pavanqwerty`)  
-- Strong foundation in **data structures, algorithms, and software design**
+### 🔵 Adewin AI (Co-Founder)  
+Backend foundation for an AI-powered advertising automation system.
 
 ---
 
-## 🏆 Achievements
-- Top 15 nationwide — **FOSSEE OpenFOAM Internship (IIT Bombay)**  
-- Top 1% — **Outlier Hackathon (500+ participants)**  
+## 💼 Experience  
+
+### Platihub Co. Ltd — Backend Developer  
+Built production APIs, structured data models, and improved backend reliability.
+
+### Zordie AI — Backend Engineering Intern  
+Async pipelines, Redis caching, modular services, and distributed-pattern backend design.
+
+### Fairseat, IIT Delhi — Full-Stack Intern  
+Authentication, session management, and real-time features using event-driven patterns.
+
+---
+
+## 📚 CS & Competitive Programming  
+🧩 Strong DSA + software design fundamentals  
+🧮 100+ LeetCode problems  
+🌀 Active Codeforces contestant: **pavanqwerty**
+
+---
+
+## 🏆 Achievements  
+🏅 Top 15 nationwide — FOSSEE OpenFOAM (IIT Bombay)  
+🏅 Top 1% — Outlier Hackathon (500+ participants)
 
 ---
 
 ## 📫 Contact  
-- **Email:** pavankumarsimhadri987@gmail.com  
-- **LinkedIn:** https://linkedin.com/in/simhadri-pavan-kumar-14b87027b/  
-- **GitHub:** https://github.com/pavannani99  
+📧 Email: **pavankumarsimhadri987@gmail.com**  
+🔗 LinkedIn: https://linkedin.com/in/simhadri-pavan-kumar-14b87027b/  
+💻 GitHub: https://github.com/pavannani99  
 
 ---
 
-Thanks for visiting!  
-I’m always open to collaborating on backend, distributed, or systems engineering projects.
+Thanks for stopping by!  
+Here’s a small Doraemon-style goodbye:
+

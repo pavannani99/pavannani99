@@ -23,42 +23,42 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="90"></tspan>
 <tspan x="15" y="110"></tspan>
 <tspan x="15" y="130"></tspan>
-<tspan x="15" y="150">==================-....:--: -</tspan>
-<tspan x="15" y="170">=================:  ..      ..:</tspan>
-<tspan x="15" y="190">================: .  .      .. .-=--</tspan>
-<tspan x="15" y="210">===========:..:-   ..  ..... .. .. </tspan>
-<tspan x="15" y="230">===========-:.   ..  .......  ... .</tspan>
-<tspan x="15" y="250">============:.  ..  ...... ... .. </tspan>
-<tspan x="15" y="270">===========. .. .  ..  ...  .. ....</tspan>
-<tspan x="15" y="290">=======---. .. .  ..   .... .. ... :</tspan>
-<tspan x="15" y="310">=======-    . .. .. .-- ...... ... .::</tspan>
-<tspan x="15" y="330">========-:  .      :%@# .  ..    ..  :</tspan>
-<tspan x="15" y="350">=========- .... .  :@%%-    .   ..  :</tspan>
-<tspan x="15" y="370">=========:    .   --:..-: --    .  .</tspan>
-<tspan x="15" y="390">=========-  ..   .%*+***%+*#+*+=   .</tspan>
-<tspan x="15" y="410">==========-.-=-  .%#****%@@#***+ .:-</tspan>
-<tspan x="15" y="430">==========.:..=.. *=.  -*%%: :=: :</tspan>
-<tspan x="15" y="450">==========-:..-:. =@+.:@@%@- *@:.:</tspan>
-<tspan x="15" y="470">===========::.=.. +@#:+@%%%*-%%:.:</tspan>
-<tspan x="15" y="490">===========-:=-. .#@@%%%%%%@@@%..-</tspan>
-<tspan x="15" y="510">============:.  ..*@@@%%%%%%@%-:-</tspan>
-<tspan x="15" y="530">=============-:..  -#@@@@@@@#-:</tspan>
-<tspan x="15" y="550">=============-.      :+#%#*-.</tspan>
-<tspan x="15" y="570">=============:..    +:       :</tspan>
-<tspan x="15" y="590">============-.:::.. #%+-.   ..</tspan>
-<tspan x="15" y="610">============:...:::.:#%@+  .:.:</tspan>
-<tspan x="15" y="630">============: .....:..::.  .:..</tspan>
-<tspan x="15" y="650">===========-......  ..    .. ...</tspan>
-<tspan x="15" y="670">===========......... .      ... :</tspan>
-<tspan x="15" y="690">==========:............   .......</tspan>
-<tspan x="15" y="710">==========.............   .......:</tspan>
-<tspan x="15" y="730">=========-.............   .... ...</tspan>
-<tspan x="15" y="750">=========..............   ........:</tspan>
-<tspan x="15" y="770">========-..... .  ... .   .........</tspan>
-<tspan x="15" y="790">========:..... . ......   .........</tspan>
-<tspan x="15" y="810">=======-.......  ......    .... ...:</tspan>
-<tspan x="15" y="830">=======-...   .. ......    .... ....</tspan>
-<tspan x="15" y="850">=======- ......   .....    .... ....</tspan>
+<tspan x="15" y="150">-....:--: -</tspan>
+<tspan x="15" y="170">:  ..      ..:</tspan>
+<tspan x="15" y="190">: .  .      .. .-=--</tspan>
+<tspan x="15" y="210">:..:-   ..  ..... .. .. </tspan>
+<tspan x="15" y="230">-:.   ..  .......  ... .</tspan>
+<tspan x="15" y="250">:.  ..  ...... ... .. </tspan>
+<tspan x="15" y="270">. .. .  ..  ...  .. ....</tspan>
+<tspan x="15" y="290">---. .. .  ..   .... .. ... :</tspan>
+<tspan x="15" y="310">-    . .. .. .-- ...... ... .::</tspan>
+<tspan x="15" y="330">-:  .      :%@# .  ..    ..  :</tspan>
+<tspan x="15" y="350">- .... .  :@%%-    .   ..  :</tspan>
+<tspan x="15" y="370":    .   --:..-: --    .  .</tspan>
+<tspan x="15" y="390">-  ..   .%*+***%+*#+*+=   .</tspan>
+<tspan x="15" y="410">-.-=-  .%#****%@@#***+ .:-</tspan>
+<tspan x="15" y="430">.:..=.. *=.  -*%%: :=: :</tspan>
+<tspan x="15" y="450">-:..-:. =@+.:@@%@- *@:.:</tspan>
+<tspan x="15" y="470">::.=.. +@#:+@%%%*-%%:.:</tspan>
+<tspan x="15" y="490">-:=-. .#@@%%%%%%@@@%..-</tspan>
+<tspan x="15" y="510">:.  ..*@@@%%%%%%@%-:-</tspan>
+<tspan x="15" y="530">-:..  -#@@@@@@@#-:</tspan>
+<tspan x="15" y="550">-.      :+#%#*-.</tspan>
+<tspan x="15" y="570">:..    +:       :</tspan>
+<tspan x="15" y="590">-.:::.. #%+-.   ..</tspan>
+<tspan x="15" y="610">:...:::.:#%@+  .:.:</tspan>
+<tspan x="15" y="630">: .....:..::.  .:..</tspan>
+<tspan x="15" y="650">-......  ..    .. ...</tspan>
+<tspan x="15" y="670">......... .      ... :</tspan>
+<tspan x="15" y="690">:............   .......</tspan>
+<tspan x="15" y="710">.............   .......:</tspan>
+<tspan x="15" y="730">-.............   .... ...</tspan>
+<tspan x="15" y="750">..............   ........:</tspan>
+<tspan x="15" y="770">-..... .  ... .   .........</tspan>
+<tspan x="15" y="790">:..... . ......   .........</tspan>
+<tspan x="15" y="810">-.......  ......    .... ...:</tspan>
+<tspan x="15" y="830">-...   .. ......    .... ....</tspan>
+<tspan x="15" y="850">- ......   .....    .... ....</tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">pavannani99@fullstack</tspan> -———————————————————————————————-—-
@@ -73,20 +73,20 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="210" class="cc">. </tspan><tspan class="value">  Backend APIs, SQL optimisation, end-to-end deployment</tspan>
 <tspan x="390" y="230" class="cc">. </tspan>
 <tspan x="390" y="250">- Skills</tspan> -————————————————————————————————————————————————————————-—-
-<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Python, TypeScript, JavaScript, Go, C++, SQL</tspan>
-<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Frontend</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">React.js, Next.js, Tailwind CSS, Redux</tspan>
-<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Backend</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Node.js, FastAPI, Express.js, Go (Gin/stdlib)</tspan>
-<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Infra</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Linux, PostgreSQL, MongoDB, Redis, Docker, AWS</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Python, TypeScript, JavaScript,C++, SQL</tspan>
+<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Frontend</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">React.js, Next.js, Tailwind CSS</tspan>
+<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Backend</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Node.js, FastAPI, Express.js</tspan>
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Infra</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">PostgreSQL, MongoDB, Redis, Docker, AWS</tspan>
 <tspan x="390" y="350" class="cc">. </tspan>
 <tspan x="390" y="370">- Projects</tspan> -————————————————————————————————————————————————————————-—-
 <tspan x="390" y="390" class="cc">. </tspan><tspan class="value">EduConnect - realtime collab (React/Node/WS/Postgres)</tspan>
 <tspan x="390" y="410" class="cc">. </tspan><tspan class="value">Adewin AI - LLM agent infra, co-founder (Python/FastAPI)</tspan>
 <tspan x="390" y="430" class="cc">. </tspan><tspan class="value">Quant Option Pricer - Black-Scholes &amp; binomial, on Streamlit</tspan>
-<tspan x="390" y="450" class="cc">. </tspan><tspan class="value">SmartShop . land-registry . Tuff-editz-Portfolio . Leetcode</tspan>
+<tspan x="390" y="450" class="cc">. </tspan><tspan class="value">SmartShop . land-registry . Tuff-editz-Portfolio . AI Powered Eye Glasses(Engg. Project</tspan>
 <tspan x="390" y="470" class="cc">. </tspan>
 <tspan x="390" y="490">- Achievements</tspan> -————————————————————————————————————————————————————————-—-
 <tspan x="390" y="510" class="cc">. </tspan><tspan class="value">Top 1% of 500+ - Outlier AI Hackathon</tspan>
-<tspan x="390" y="530" class="cc">. </tspan><tspan class="value">Top 15 nationally - FOSSEE OpenFOAM Internship, IIT Bombay</tspan>
+<tspan x="390" y="530" class="cc">. </tspan><tspan class="value">Selected as an Open Source Contributor for  (GSSoC) and(SSoC).</tspan>
 <tspan x="390" y="550" class="cc">. </tspan><tspan class="value">100+ DSA problems solved - LeetCode &amp; Codeforces</tspan>
 <tspan x="390" y="570" class="cc">. </tspan><tspan class="value">GitHub badges: Pull Shark, YOLO, Quickdraw</tspan>
 <tspan x="390" y="590" class="cc">. </tspan>

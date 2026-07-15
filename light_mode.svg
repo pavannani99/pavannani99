@@ -100,7 +100,7 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="750">- GitHub Stats</tspan> -————————————————————————————————————————————————————————-—-
 <tspan x="390" y="770" class="cc">. </tspan><tspan class="key">Repos</tspan>: <tspan class="value" id="repo_data">67</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">67</tspan>} | <tspan class="key">Stars</tspan>: <tspan class="value" id="star_data">28</tspan>
 <tspan x="390" y="790" class="cc">. </tspan><tspan class="key">Followers</tspan>: <tspan class="value" id="follower_data">11</tspan> | <tspan class="key">Following</tspan>: <tspan class="value">25</tspan> | <tspan class="key">Commits</tspan>: <tspan class="value" id="commit_data">0</tspan>
-<tspan x="390" y="810" class="cc">. </tspan><tspan class="key">Lines of Code</tspan>: <tspan class="value" id="loc_data">0</tspan> ( <tspan class="addColor" id="loc_add">0</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor" id="loc_del">0</tspan><tspan class="delColor">--</tspan> )
+<!-- <tspan x="390" y="810" class="cc">. </tspan><tspan class="key">Lines of Code</tspan>: <tspan class="value" id="loc_data">0</tspan> ( <tspan class="addColor" id="loc_add">0</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor" id="loc_del">0</tspan><tspan class="delColor">--</tspan> ) -->
 <tspan x="390" y="830" class="cc">. </tspan><tspan class="value">441 contributions in the last year (GitHub graph)</tspan>
 </text>
 </svg>
